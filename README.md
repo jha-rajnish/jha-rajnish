@@ -161,5 +161,5 @@ Contact
 About me.!!
 -->
 - ☔ **Pluviophile..🌧..!**
-- 💬 Ask me about **Data & Techonology**
+- 💬 Ask me about **Business Intelligence**
 - ✉ Reach me ... jharajnish@outlook.in
