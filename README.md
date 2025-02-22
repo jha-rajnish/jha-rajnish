@@ -20,7 +20,7 @@ About..!!
 <!--
 Cover Image🖼
 -->
-![Cover-IMG](./assets/github-cover.jpg)
+![Cover-IMG](./assets/cover.jpg)
 
 
 <!--
