@@ -13,7 +13,7 @@ Welcome..!!
 About..!!
 -->
 <h3 align="center">
-  I'm Rajnish, A passionate Business Intelligence-BI Developer.
+  I'm Rajnish, A passionate Data Engineer.
 </h3>
 
 
@@ -175,7 +175,6 @@ Contact
 About me.!!
 -->
 - ✍️ **अंतः अस्ति प्रारंभः🔁**
-- 🍁 **Selcouth.. ✨:)**
 - 🌈 **Pluviophile..🌧️..!!**
-- 💬 Ask me about **Business Intelligence**
+- 💬 Ask me about **BI & Data Science**
 - ✉ Reach me ... jharajnish@outlook.in
